@@ -1,0 +1,33 @@
+C:\Users\Dev6\source\repos\PizzaSipariş\PizzaSipariş\bin\Debug\net6.0-windows\PizzaSipariş.exe
+C:\Users\Dev6\source\repos\PizzaSipariş\PizzaSipariş\bin\Debug\net6.0-windows\PizzaSipariş.deps.json
+C:\Users\Dev6\source\repos\PizzaSipariş\PizzaSipariş\bin\Debug\net6.0-windows\PizzaSipariş.runtimeconfig.json
+C:\Users\Dev6\source\repos\PizzaSipariş\PizzaSipariş\bin\Debug\net6.0-windows\PizzaSipariş.dll
+C:\Users\Dev6\source\repos\PizzaSipariş\PizzaSipariş\bin\Debug\net6.0-windows\PizzaSipariş.pdb
+C:\Users\Dev6\source\repos\PizzaSipariş\PizzaSipariş\obj\Debug\net6.0-windows\PizzaSipariş.csproj.AssemblyReference.cache
+C:\Users\Dev6\source\repos\PizzaSipariş\PizzaSipariş\obj\Debug\net6.0-windows\PizzaSipariş.Form1.resources
+C:\Users\Dev6\source\repos\PizzaSipariş\PizzaSipariş\obj\Debug\net6.0-windows\PizzaSipariş.csproj.GenerateResource.cache
+C:\Users\Dev6\source\repos\PizzaSipariş\PizzaSipariş\obj\Debug\net6.0-windows\PizzaSipariş.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev6\source\repos\PizzaSipariş\PizzaSipariş\obj\Debug\net6.0-windows\PizzaSipariş.AssemblyInfoInputs.cache
+C:\Users\Dev6\source\repos\PizzaSipariş\PizzaSipariş\obj\Debug\net6.0-windows\PizzaSipariş.AssemblyInfo.cs
+C:\Users\Dev6\source\repos\PizzaSipariş\PizzaSipariş\obj\Debug\net6.0-windows\PizzaSipariş.csproj.CoreCompileInputs.cache
+C:\Users\Dev6\source\repos\PizzaSipariş\PizzaSipariş\obj\Debug\net6.0-windows\PizzaSipariş.dll
+C:\Users\Dev6\source\repos\PizzaSipariş\PizzaSipariş\obj\Debug\net6.0-windows\refint\PizzaSipariş.dll
+C:\Users\Dev6\source\repos\PizzaSipariş\PizzaSipariş\obj\Debug\net6.0-windows\PizzaSipariş.pdb
+C:\Users\Dev6\source\repos\PizzaSipariş\PizzaSipariş\obj\Debug\net6.0-windows\PizzaSipariş.genruntimeconfig.cache
+C:\Users\Dev6\source\repos\PizzaSipariş\PizzaSipariş\obj\Debug\net6.0-windows\ref\PizzaSipariş.dll
+H:\NTP Kodları\PizzaSipariş\PizzaSipariş\bin\Debug\net6.0-windows\PizzaSipariş.exe
+H:\NTP Kodları\PizzaSipariş\PizzaSipariş\bin\Debug\net6.0-windows\PizzaSipariş.deps.json
+H:\NTP Kodları\PizzaSipariş\PizzaSipariş\bin\Debug\net6.0-windows\PizzaSipariş.runtimeconfig.json
+H:\NTP Kodları\PizzaSipariş\PizzaSipariş\bin\Debug\net6.0-windows\PizzaSipariş.dll
+H:\NTP Kodları\PizzaSipariş\PizzaSipariş\bin\Debug\net6.0-windows\PizzaSipariş.pdb
+H:\NTP Kodları\PizzaSipariş\PizzaSipariş\obj\Debug\net6.0-windows\PizzaSipariş.Form1.resources
+H:\NTP Kodları\PizzaSipariş\PizzaSipariş\obj\Debug\net6.0-windows\PizzaSipariş.csproj.GenerateResource.cache
+H:\NTP Kodları\PizzaSipariş\PizzaSipariş\obj\Debug\net6.0-windows\PizzaSipariş.GeneratedMSBuildEditorConfig.editorconfig
+H:\NTP Kodları\PizzaSipariş\PizzaSipariş\obj\Debug\net6.0-windows\PizzaSipariş.AssemblyInfoInputs.cache
+H:\NTP Kodları\PizzaSipariş\PizzaSipariş\obj\Debug\net6.0-windows\PizzaSipariş.AssemblyInfo.cs
+H:\NTP Kodları\PizzaSipariş\PizzaSipariş\obj\Debug\net6.0-windows\PizzaSipariş.csproj.CoreCompileInputs.cache
+H:\NTP Kodları\PizzaSipariş\PizzaSipariş\obj\Debug\net6.0-windows\PizzaSipariş.dll
+H:\NTP Kodları\PizzaSipariş\PizzaSipariş\obj\Debug\net6.0-windows\refint\PizzaSipariş.dll
+H:\NTP Kodları\PizzaSipariş\PizzaSipariş\obj\Debug\net6.0-windows\PizzaSipariş.pdb
+H:\NTP Kodları\PizzaSipariş\PizzaSipariş\obj\Debug\net6.0-windows\PizzaSipariş.genruntimeconfig.cache
+H:\NTP Kodları\PizzaSipariş\PizzaSipariş\obj\Debug\net6.0-windows\ref\PizzaSipariş.dll
